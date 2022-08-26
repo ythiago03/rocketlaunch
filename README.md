@@ -10,13 +10,14 @@
     <a href="#autor">autor</a> 
 </p>
 
-<!-- <h4 align="center">🚧  This project is under construction . . .  🚧 </h4> -->
+<h4 align="center">🚧  This project is under construction . . .  🚧 </h4>
 
 <p align="center">Você pode checar o projeto<a href="https://rocketlaunchth.netlify.app/"> clicando aqui.</a></p>
 
 # Sobre
 
 - A ideia do projeto é criar uma página de coming soon (em breve) para o lançamento de um site, produto ou serviço, e na página deve ter um countdown timer (timer de contagem regressiva) informando quanto tempo falta para o lançamento. Utilizando HTML, CSS e Javascript.
+- Este projeto foi feito para o challenge da <a href="https://app.rocketseat.com.br/discover/challenges/countdown">Rocketseat<a>
 - Por enquanto este projeto não possui responsividade.
 - Se você encontrar algum bug ou quiser me dar alguma dica fique a vontade para me chamar no email: ythiagohcfidencio@gmail.com
  
